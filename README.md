@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Amex! 👋
 
-<!--
-**deco94816-design/deco94816-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-stack Developer** and **Telegram Bot Architect**, specializing in Python, asyncio, and Crypto/TON integrations.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I'm currently working on **Optimus**, a high-performance Telegram Casino system.
+- 🌱 I’m constantly exploring new ways to integrate Web3 and crypto payments seamlessly.
+- 📫 How to reach me: **[Telegram (@exiff)](https://t.me/exiff)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+- **Languages:** Python, JavaScript
+- **Frameworks/Libs:** python-telegram-bot, httpx, asyncio
+- **Databases:** SQLite, PostgreSQL
+- **Integrations:** CoinGecko API, OxaPay, TON Blockchain
+
+## 📊 GitHub Stats
+![Amex's GitHub stats](https://github-readme-stats.vercel.app/api?username=deco94816-design&show_icons=true&theme=radical)
